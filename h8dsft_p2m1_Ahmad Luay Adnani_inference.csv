@@ -1,0 +1,11 @@
+,user_id,age,gender,region_category,membership_category,joining_date,joined_through_referral,preferred_offer_types,medium_of_operation,internet_option,last_visit_time,days_since_last_login,avg_time_spent,avg_transaction_value,avg_frequency_login_days,points_in_wallet,used_special_discount,offer_application_preference,past_complaint,complaint_status,feedback,churn_risk_score
+1613,972706cb0db0068e,46,F,Town,Premium Membership,2015-03-27,No,Credit/Debit Card Offers,Smartphone,Mobile_Data,09:41:40,16,1447.3879288904284,11839.58,29.0,727.91,Yes,No,No,Not Applicable,No reason specified,0
+5073,82d62cc806fb2816,25,M,Town,Premium Membership,2016-09-07,,Without Offers,Smartphone,Wi-Fi,05:57:32,22,114.17,46885.8,8.0,793.11,No,Yes,Yes,Unsolved,No reason specified,0
+6770,a596b4679c30ef3e,64,M,,Basic Membership,2017-09-07,Yes,Credit/Debit Card Offers,Smartphone,Wi-Fi,23:40:53,5,204.43,42224.69,26.0,510.37,Yes,No,Yes,Solved,Too many ads,1
+8157,8c4761dbf8df1816,52,F,City,Gold Membership,2017-12-31,Yes,,Smartphone,Wi-Fi,19:37:50,6,179.33,48836.04,20.0,705.0,Yes,No,Yes,Solved in Follow-up,No reason specified,0
+18656,8f2f492e0c25eb41,60,M,Town,Basic Membership,2015-07-08,Yes,Credit/Debit Card Offers,Smartphone,Wi-Fi,08:14:56,15,38.94,14104.52,21.0,677.41,Yes,No,Yes,No Information Available,Poor Customer Service,0
+19212,9bba07c5c386c34c,57,F,City,Silver Membership,2016-06-22,No,Gift Vouchers/Coupons,,Mobile_Data,07:44:56,11,0.0,8150.9,20.0,793.32,No,Yes,No,Not Applicable,No reason specified,0
+24245,8a205a969e23299d,17,M,,Gold Membership,2015-05-19,No,Gift Vouchers/Coupons,Desktop,Wi-Fi,22:51:54,11,199.94,75765.63,0.0,820.17,Yes,No,Yes,Solved,Quality Customer Care,0
+28050,91607fb18aafbfee,15,M,City,No Membership,2017-11-15,Yes,Gift Vouchers/Coupons,Desktop,Fiber_Optic,08:41:07,24,67.55,32777.77,23.0,533.44,Yes,No,No,Not Applicable,Poor Customer Service,1
+34879,847bddd58ff99d7e,32,M,Town,Basic Membership,2016-02-02,Yes,Without Offers,Smartphone,Mobile_Data,20:42:46,21,119.98,1888.81,28.0,628.93,No,Yes,No,Not Applicable,Too many ads,1
+35937,8c92ce118df969a1,29,M,Village,Platinum Membership,2016-10-19,No,Credit/Debit Card Offers,,Fiber_Optic,19:04:02,15,145.07,28873.91,19.0,715.5,No,Yes,No,Not Applicable,Too many ads,0
