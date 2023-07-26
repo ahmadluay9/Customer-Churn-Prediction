@@ -6,10 +6,13 @@ This project aims to build an Artificial Neural Network model that capable of pr
 
 This repository consists of several files, namely :
 
-- Folder deployment = Contains files used for deployment to HuggingFace (contains models, python applications etc.)
-- Notebook_Customer_Churn_Prediction.ipynb = This file is the main notebook used to explore dataset and built model
-- model_inference.ipynb = - Notebook used for testing inference. Inferencing is done on a separate notebook to prove that the model can run on a notebook that is clean of variables
-- url.txt = Deployment URL to HuggingFace
+- **Folder deployment** = Contains files used for deployment to HuggingFace (contains models, python applications etc.)
+- **churn.csv** = dataset used for this project
+- **Notebook_Customer_Churn_Prediction.ipynb** = This file is the main notebook used to explore dataset and built model
+- **model_inference.ipynb** = - Notebook used for testing inference. Inferencing is done on a separate notebook to prove that the model can run on a notebook that is clean of variables
+- **h8dsft_p2m1_Ahmad Luay Adnani_inference.csv** = Dataset used for Model Inference
+- **model_seq2.h5** = Saved model to be loaded and used later for making predictions on new data without the need to retrain the model.
+- [**Deployment**](https://huggingface.co/spaces/ahmadluay/Customer_Churn_Prediction)
 
 # Brief Summary of Project
 
